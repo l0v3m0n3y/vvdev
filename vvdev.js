@@ -1,4 +1,3 @@
-//mobile api function
 class vvdev{
     constructor(){
         this.api = "https://iplookup.vvdev.ru"
